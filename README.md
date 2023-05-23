@@ -10,5 +10,5 @@ a small set of python program I made in my 2nd year of college
 - [image-resizer](https://github.com/akkshayTandon/Python-Programs/tree/main/Programs/image-resizer)
 
 #### Miscellaneous Programs
-- [heart.py](https://github.com/akkshayTandon/Python-Programs/tree/main/Programs)
-- [qp_programs.py](https://github.com/akkshayTandon/Python-Programs/tree/main/Programs)
+- [heart.py](https://github.com/akkshayTandon/Python-Programs/blob/main/Programs/heart.py)
+- [qp_programs.py](https://github.com/akkshayTandon/Python-Programs/blob/main/Programs/qp_programs.py)
